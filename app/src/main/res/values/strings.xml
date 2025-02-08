@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="register_button_text">Зарегистрироваться</string>
+    <string name="login_button_text">Уже есть аккаунт?</string>
+    <string-array name="gender_options">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+</resources>
